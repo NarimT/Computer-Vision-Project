@@ -1,0 +1,8 @@
+# YOLOv8 Dataset Configuration - Google Colab Paths
+# Format: YOLO
+path: /content/drive/MyDrive/cv_project/03_datasets/oil_palm_yolo_v1
+train: images/train
+val: images/val
+
+nc: 1
+names: ['oil_palm']

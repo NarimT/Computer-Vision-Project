@@ -1,0 +1,9 @@
+{
+  "experiment_id": "exp_003_accurate_yolov8l",
+  "model_family": "yolov8",
+  "model_variant": "yolov8l.pt",
+  "mAP_50_95": 0.5780067806449947,
+  "mAP_50": 0.8105340306969845,
+  "updated_at": "2025-11-17 16:19:04",
+  "weights_path": "/content/drive/MyDrive/cv_project/04_experiments/01_yolov8/exp_003_accurate_yolov8l/training/weights/best.pt"
+}

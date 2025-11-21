@@ -1,0 +1,8 @@
+# YOLOv8 Dataset Configuration - Local Paths
+# Format: YOLO
+path: /Users/lujem/Documents/AIT/03_semester/computer_vision/cv_project/03_datasets/oil_palm_yolo_v1
+train: images/train
+val: images/val
+
+nc: 1
+names: ['oil_palm']

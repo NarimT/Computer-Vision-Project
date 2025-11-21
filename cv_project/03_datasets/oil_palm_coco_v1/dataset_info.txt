@@ -1,0 +1,23 @@
+# COCO Dataset Configuration
+# Format: COCO
+dataset_name: oil_palm_coco_v1
+num_classes: 1
+class_names: ['oil_palm']
+
+# Local paths
+train_images: /Users/lujem/Documents/AIT/03_semester/computer_vision/cv_project/03_datasets/oil_palm_coco_v1/train
+val_images: /Users/lujem/Documents/AIT/03_semester/computer_vision/cv_project/03_datasets/oil_palm_coco_v1/val
+train_annotations: /Users/lujem/Documents/AIT/03_semester/computer_vision/cv_project/03_datasets/oil_palm_coco_v1/annotations/instances_train.json
+val_annotations: /Users/lujem/Documents/AIT/03_semester/computer_vision/cv_project/03_datasets/oil_palm_coco_v1/annotations/instances_val.json
+
+# Google Colab paths (for Faster R-CNN script)
+colab_train_images: /content/drive/MyDrive/cv_project/03_datasets/oil_palm_coco_v1/train
+colab_val_images: /content/drive/MyDrive/cv_project/03_datasets/oil_palm_coco_v1/val
+colab_train_annotations: /content/drive/MyDrive/cv_project/03_datasets/oil_palm_coco_v1/annotations/instances_train.json
+colab_val_annotations: /content/drive/MyDrive/cv_project/03_datasets/oil_palm_coco_v1/annotations/instances_val.json
+
+# Usage in Faster R-CNN script:
+# train_images_dir = Path('/content/drive/MyDrive/cv_project/03_datasets/oil_palm_coco_v1/train')
+# val_images_dir = Path('/content/drive/MyDrive/cv_project/03_datasets/oil_palm_coco_v1/val')
+# train_ann_file = Path('/content/drive/MyDrive/cv_project/03_datasets/oil_palm_coco_v1/annotations/instances_train.json')
+# val_ann_file = Path('/content/drive/MyDrive/cv_project/03_datasets/oil_palm_coco_v1/annotations/instances_val.json')
