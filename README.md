@@ -32,11 +32,15 @@ The models are trained on high-resolution drone imagery that has been tiled into
 Detection results are exported as GeoJSON files for GIS integration:
 - `detected_palms_fasterrcnn.geojson`
 - `detected_palms_yolo.geojson`
-## Interactive Map
 
-**View detection results in Google Earth Engine:**
+### Interactive Map
+
+<img src="cv_project/04_experiments/results/Screenshot 2025-12-04 at 05.05.28.png" width="800">
+ 
+*Inference results in Google Earth Engine*
 
 🔗 **Direct Link:** (https://code.earthengine.google.com/0cd971d3d886ab24f4277f910cc730c3)
+
 The interactive map allows you to:
 - View all detected palm trees
 - Toggle between YOLO and Faster R-CNN detections
