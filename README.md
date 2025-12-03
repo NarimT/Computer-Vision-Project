@@ -192,6 +192,7 @@ All 69 experiments are logged in `04_experiments/all_experiments_log.csv` with t
 ## Authors
 - **Nariman Tursaliev** (st125983)
 - **Luis Medina** (st124895)
+- **Aymen Zubair Qureshi** (st125405)
 
 
 ## License
