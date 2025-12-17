@@ -10,6 +10,9 @@ This project implements and compares two object detection approaches for automat
 
 The models are trained on high-resolution drone imagery that has been tiled into 512x512 pixel images for efficient processing.
 
+**Paper:**
+[Oil Palm Tree Detection from Drone Imagery (PDF)](cv_project/st124895_st125983.pdf)
+
 ## Results
 
 ### Best Model Performance
@@ -207,7 +210,6 @@ All 69 experiments are logged in `04_experiments/all_experiments_log.csv` with t
 ## Authors
 - **Nariman Tursaliev** (st125983)
 - **Luis Medina** (st124895)
-- **Aymen Zubair Qureshi** (st125405)
 
 
 ## License
