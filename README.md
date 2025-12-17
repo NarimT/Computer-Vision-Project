@@ -11,7 +11,7 @@ This project implements and compares two object detection approaches for automat
 The models are trained on high-resolution drone imagery that has been tiled into 512x512 pixel images for efficient processing.
 
 **Paper:**
-[Oil Palm Tree Detection from Drone Imagery (PDF)](st124895_st125983(1).pdf)
+[Oil Palm Tree Detection from Drone Imagery (PDF)](st124895_st125983-.pdf)
 
 ## Results
 
