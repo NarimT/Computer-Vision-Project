@@ -42,7 +42,7 @@ Detection results are exported as GeoJSON files for GIS integration:
  
 *Inference results in Google Earth Engine*
 
-🔗 **Direct Link:** (https://code.earthengine.google.com/0cd971d3d886ab24f4277f910cc730c3)
+🔗 **Direct Link:** (https://daring-thought-480112-g0.projects.earthengine.app/view/newapp2)
 
 The interactive map allows you to:
 - View all detected palm trees
